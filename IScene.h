@@ -1,12 +1,12 @@
 ﻿#pragma once
 
 enum SceneType
-	{
-		kTitle,
-		kStage,
-		kClear,
-		kSceneMax
-	};
+{
+	kTitle,
+	kStage,
+	kClear,
+	kSceneMax
+};
 
 class IScene
 {
